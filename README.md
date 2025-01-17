@@ -4,8 +4,8 @@ Hi there! I'm **Rishabh Amar**, an enthusiastic **AI/ML developer** passionate a
 
 ## Achievements 🏅
 
-* **Winner**, Finnovate Hack 2024: Created a platform to enhance financial literacy using AI and IVR. ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/mayankified/FINNOVATE-ZETA-Client)
-* **Top 7**, ODOO X Amalthea Hackathon 2024: Developed a healthcare platform integrating voice support, prescription recognition, and chatbot features. ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/rishabhamar/rishabh-amar-ClinicQ)
+* **Winner**, Finnovate Hack 2024: Created a platform to enhance financial literacy using AI and IVR. [<img src="[path/to/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgithub-logo_25231&psig=AOvVaw17S9SWfbRxC5fV5SlC-Yjs&ust=1737195154842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPij3rLC_IoDFQAAAAAdAAAAABAE)">](https://github.com/mayankified/FINNOVATE-ZETA-Client)
+* **Top 7**, ODOO X Amalthea Hackathon 2024: Developed a healthcare platform integrating voice support, prescription recognition, and chatbot features. [<img src="[path/to/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgithub-logo_25231&psig=AOvVaw17S9SWfbRxC5fV5SlC-Yjs&ust=1737195154842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPij3rLC_IoDFQAAAAAdAAAAABAE)">](https://github.com/rishabhamar/rishabh-amar-ClinicQ)
 
 <!--
 **rishabhamar/rishabhamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
