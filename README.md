@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me 🚀
+
+Hi there! I'm **Rishabh Amar**, an enthusiastic **AI/ML developer** passionate about solving real-world problems with technology. Currently pursuing my **B.Tech** in **Artificial Intelligence & Data Science**, I enjoy exploring the latest trends in machine learning, deep learning, Blockchain, and software development.
+
+## Achievements 🏅
+
+* **Winner**, Finnovate Hack 2024: Created a platform to enhance financial literacy using AI and IVR. ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/mayankified/FINNOVATE-ZETA-Client)
+* **Top 7**, ODOO X Amalthea Hackathon 2024: Developed a healthcare platform integrating voice support, prescription recognition, and chatbot features. ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/rishabhamar/rishabh-amar-ClinicQ)
 
 <!--
 **rishabhamar/rishabhamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
