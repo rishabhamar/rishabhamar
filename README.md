@@ -45,8 +45,8 @@ Hi there! I'm **Rishabh Amar**, an enthusiastic **AI/ML developer** passionate a
 
 ## My Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://linkedin.com/in/rishabh-amar-0b6106249/) ![X](https://img.shields.io/twitter/follow/rishabhamar1234
-) [![GFG](https://img.shields.io/badge/GFG-green?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rishabhayth5/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetCode&logoColor=white)](https://leetcode.com/u/rishabhamar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://linkedin.com/in/rishabh-amar-0b6106249/) [![X](https://img.shields.io/twitter/follow/rishabhamar1234
+)](https://x.com/rishabhamar1234) [![GFG](https://img.shields.io/badge/GFG-green?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rishabhayth5/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetCode&logoColor=white)](https://leetcode.com/u/rishabhamar/)
 
 
 ![](https://komarev.com/ghpvc/?username=rishabhamar&color=green)
