@@ -43,6 +43,11 @@ Hi there! I'm **Rishabh Amar**, an enthusiastic **AI/ML developer** passionate a
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhamar&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
+## Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhamar&layout=compact&hide=cython,tcl)
+
+
 ## My Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://linkedin.com/in/rishabh-amar-0b6106249/) [![X](https://img.shields.io/twitter/follow/rishabhamar1234
