@@ -37,7 +37,7 @@ Hi there! I'm **Rishabh Amar**, an enthusiastic **AI/ML developer** passionate a
 
 * Hackathons
 * Quiz Competitions
-* Music ![Music](https://img.shields.io/badge/Music-1DB954?logo=spotify&logoColor=white)
+* Music [![Music](https://img.shields.io/badge/Music-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/190zgb5whmbxgqkwbtm11k8fa?si=RSoDersoRCyWI7i_aMApVw)
 
 ## My GitHub contributions summary
 
